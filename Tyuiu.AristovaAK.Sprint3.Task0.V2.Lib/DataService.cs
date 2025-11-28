@@ -10,7 +10,7 @@ namespace Tyuiu.AristovaAK.Sprint3.Task0.V2.Lib
             {
                 res *= Math.Pow(((k) / (Math.Pow(Math.Sin(1), -7))), -2);
             }
-            return res;
+            return Math.Round(res, 3);
         }
     }
 }

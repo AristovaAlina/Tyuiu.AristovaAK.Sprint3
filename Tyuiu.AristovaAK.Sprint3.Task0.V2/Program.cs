@@ -19,7 +19,7 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
         Console.WriteLine("***************************************************************************");
-
+        
         int start = 1;
         int stop = 9;
         Console.WriteLine($"Старт шага = {start}");
@@ -31,6 +31,6 @@ internal class Program
 
         Console.WriteLine(ds.GetMultiplySeries(start, stop));
 
-        Console.ReadKey();
+        Console.ReadKey(); 
     }
 }
