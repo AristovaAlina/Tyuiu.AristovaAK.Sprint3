@@ -8,7 +8,7 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #3                                                               *");
         Console.WriteLine("* Тема: Оператор цикла for                                                *");
-        Console.WriteLine("* Задание #1                                                              *");
+        Console.WriteLine("* Задание #0                                                              *");
         Console.WriteLine("* Вариант #2                                                              *");
         Console.WriteLine("* Выполнила: Аристова Алина Константиновна | СМАРТб-25-1                  *");
         Console.WriteLine("***************************************************************************");
