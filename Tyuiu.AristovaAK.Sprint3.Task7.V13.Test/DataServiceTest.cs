@@ -30,5 +30,5 @@ namespace Tyuiu.AristovaAK.Sprint3.Task7.V13.Test
             CollectionAssert.AreEqual(wait, res);
 
         }
-    }
+    } 
 }

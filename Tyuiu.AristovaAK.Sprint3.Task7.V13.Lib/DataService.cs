@@ -15,7 +15,7 @@ namespace Tyuiu.AristovaAK.Sprint3.Task7.V13.Lib
                 y = Math.Round((3 * x) + 2 - ((2 * x - x) / (Math.Cos(x) + 1)), 2);
                 valueArray[count] = y;
                 count++;
-            }
+            } 
             return valueArray;
         }
     }

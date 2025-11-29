@@ -3,7 +3,7 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        DataService ds = new DataService();
+        DataService ds = new DataService(); 
         Console.Title = "Спринт #3 | Выполнила: Аристова А. К. | СМАРТб-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #3                                                               *");
